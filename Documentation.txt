@@ -1,0 +1,13 @@
+For Image Dataset
+
+I used tested various libary for image augmentation such as Imgaug,Albumentations,SOLT and tensor
+Out of all of them i choose SOLT because it is easy to use and result is also very good
+
+then i label my datset by using labelimg library
+
+finally my dataset is created
+
+no i create a colab file and i trained my model with respect to my dataset 
+
+i test this model on images and video 
+result are mension on inference folder

@@ -1,0 +1,4 @@
+train: data/train/image
+
+nc: 1
+names: ['People']
