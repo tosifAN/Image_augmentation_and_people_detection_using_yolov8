@@ -1,0 +1,2 @@
+# Image_augmentation_and_people_detection_using_yolov8
+yolov8
