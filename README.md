@@ -19,10 +19,9 @@ This project focuses on training a YOLOv8 object detection model using various i
 ## Project Structure
 
 - `dataset/`: Contains augmented and labeled dataset.
-- `model/`: Saved YOLOv8 model weights after training.
-- `testing/`: Results and findings from testing on videos and images.
-- `notebooks/`: Jupyter notebooks used for data preprocessing, model training, and testing.
-- `utils/`: Utility scripts or helper functions used during the project.
+- `mymodel.ipynb.url`: Here is the colab link of Training and Testing Code.
+- `inference/`: Results and findings from testing on videos and images.
+- `source/`: inputs
 
 ## Usage
 
@@ -32,11 +31,11 @@ This project focuses on training a YOLOv8 object detection model using various i
 
 2. **Model Training:**
    - Train the YOLOv8 model using the augmented and labeled dataset.
-   - Save the trained model weights in the `model/` directory.
+   - Save the trained model weights in the `model/` directory(google drive).
 
 3. **Testing:**
    - Utilize the trained model for object detection on videos and images.
-   - Record observations and results in the `testing/` directory.
+   - Record observations and results in the `testing/` directory(google drive).
 
 ## Requirements
 
@@ -47,15 +46,8 @@ This project focuses on training a YOLOv8 object detection model using various i
 
 ## Resources
 
-- [Link to Dataset (if publicly available)](dataset_link)
-- [Link to YOLOv8 Framework](yolov8_link)
-- [Link to any Additional Resources or Research Papers]
+-Link is Mensioned above
 
-## License
+## Contributor
 
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
-
-## Contributors
-
-- [Your Name]
-- [Other Contributors, if applicable]
+- Tosif Ansari
