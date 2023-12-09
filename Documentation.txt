@@ -1,13 +1,28 @@
-For Image Dataset
+Image Augmentation Libraries Evaluation
 
-I used tested various libary for image augmentation such as Imgaug,Albumentations,SOLT and tensor
-Out of all of them i choose SOLT because it is easy to use and result is also very good
+Library Evaluation:
+Explored various image augmentation libraries like Imgaug, Albumentations, SOLT, and Tensor.
+After comprehensive testing, opted for SOLT due to its user-friendly nature and superior output quality.
 
-then i label my datset by using labelimg library
+Dataset Labeling Process
 
-finally my dataset is created
+Labeling Method:
+Utilized the 'labelimg' library for labeling the dataset.
+Ensured accurate and comprehensive labeling of images for subsequent training.
 
-no i create a colab file and i trained my model with respect to my dataset 
+Dataset Creation
+Dataset Formation:
+Completed the dataset creation process, incorporating augmented images via SOLT.
+The finalized dataset includes labeled and augmented images ready for training.
 
-i test this model on images and video 
-result are mension on inference folder
+Model Training in Colab
+Training Environment:
+Developed a Colab notebook for training the model based on the prepared dataset.
+Conducted model training, validation, and optimization using the created dataset.
+
+Model Testing on Images and Videos
+Inference Results:
+Applied the trained model to test images and videos.
+Recorded and documented the model's performance and results in the 'inference' folder for further analysis.
+
+This documentation outlines the stages involved in creating and preparing the image dataset, including the evaluation of augmentation libraries, dataset labeling, creation, model training in Colab, and subsequent testing on images and videos. It highlights the selected methods and tools used at each step, facilitating clarity and understanding of the dataset preparation and model training process. Adjustments can be made to suit the specific details and requirements of the workflow.
